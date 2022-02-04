@@ -1,2 +1,8 @@
 # lazy-open-redirect-vuln-automation
-Crawl the domain, Fuzz the parameters, Replace the ?=http:// parameters with evil.com, Analyze modified parameters in one step (lazy open redirect automation - LORA)
+<ul>
+<li>Crawl the domain</li> 
+<li>Fuzz the parameters</li>
+  <li>Replace the ?=http:// parameters with evil.com</li>
+  <li>Analyze modified parameters in one step </li>
+</ul>
+(lazy open redirect automation - LORA)
