@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir $1
-python3 ragno.py -d $1 -o $1/temp.txt
+python3 crawlnfuzz.py -d $1 -o $1/temp.txt
 cat $1/temp.txt | grep "=http" > $1/potential.txt
 cat $1/potential.txt | qsreplace "http://evil.com" > $1/staged.txt
 touch $1/report.txt
