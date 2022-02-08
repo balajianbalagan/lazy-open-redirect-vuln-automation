@@ -14,5 +14,5 @@
 ![image](https://user-images.githubusercontent.com/42893328/152653295-02f7b3c2-0f29-4484-82d4-fb2bc06e2d94.png)
 </ol>
 
-<h1><i>Note : Only possible pen redirect vulnerabilties endpoints can be found by this tool</i></h1>
+<h1><i>Note : Only possible open redirect vulnerabilties endpoints can be found by this tool</i></h1>
 
